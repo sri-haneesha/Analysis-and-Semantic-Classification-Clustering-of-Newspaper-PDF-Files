@@ -55,7 +55,8 @@ Improve text extraction from PDFs to handle multi-column layouts and graphics
 
 **References**
 
-Devlin, J., et al. (2018). BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding. arXiv preprint arXiv:1810.04805
+Devlin, J., et al. (2018). BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding. 
+arXiv preprint arXiv:1810.04805
 Data Extraction from Unstructured PDFs – Analytics Vidhya
 Pedregosa, F., et al. (2011). Scikit-learn: Machine Learning in Python. JMLR, 12, 2825–2830
 TensorFlow Documentation – GPU Support
