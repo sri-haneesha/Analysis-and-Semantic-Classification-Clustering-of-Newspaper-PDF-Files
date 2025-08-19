@@ -38,7 +38,6 @@ seaborn
 Source: Kaggle news dataset
 500 records per category
 Nine categories as listed above
-Preprocessed dataset included 
 
 **Experimental Results**
 
